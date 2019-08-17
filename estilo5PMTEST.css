@@ -1,0 +1,26 @@
+
+header{
+width:20%
+background-color: white(12, 124, 136);
+text-align: center;
+color::-webkit-scrollbar-track;
+font-size: 50px;
+padding:10px;
+
+
+div{
+width:99%; 
+background-color: white (12, 124, 136);
+border: 2px double white;
+text-align: center;
+color::-webkit-scrollbar-track;
+font-size: 45px;
+padding:10px;
+
+}
+img{
+   width:99%; 
+   align-items: center;
+   align-content: center;
+   image-rendering: crisp-edges;
+     }
