@@ -1,0 +1,55 @@
+img {
+    width:80%;
+    height:75%; 
+}
+header{
+width:90%; 
+background-color:rgb(180, 196, 43);
+text-align: center;
+color:white;
+font-size: 25px;
+padding:10px;
+}
+div{
+width:90%; 
+background-color:rgb(180, 196, 43);
+border: 2px double green;
+text-align: center;
+color:white;
+font-size: 25px;
+padding:10px;
+}
+
+.imagesim {
+width:80%;
+height:75%; 
+} 
+ 
+Span{
+#hamburger{
+    display:none;
+@ media only screen and (max-width:200px){
+
+#hamburguer{
+    display;block;
+}
+
+}
+ 
+ul{
+List-style-type: none;
+}
+
+nav{
+background-color: black;
+color:white;
+}
+
+footer{
+background-color: black
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+color: white;
+font-size:25px;
+
+}

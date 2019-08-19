@@ -1,0 +1,50 @@
+
+header{
+width:20%
+background-color: white(12, 124, 136);
+text-align: center;
+color::-webkit-scrollbar-track;
+font-size: 50px;
+padding:10px;
+}
+
+div{
+width:99%; 
+background-color: white (12, 124, 136);
+border: 2px double white;
+text-align: center;
+color::-webkit-scrollbar-track;
+font-size: 45px;
+padding:10px;
+
+}
+img{
+   width:99%; 
+   height:90%;
+   align-items: center;
+   align-content: center;
+   image-rendering: crisp-edges;
+     }
+
+
+.container {
+  align-items: stretch | flex-start | flex-end | center | baseline;
+  border:2px;
+  background colgroup:-webkit-validation-bubble-arrow-clipper;
+
+
+}
+
+.item {
+  align-self: auto | flex-start | flex-end | center | baseline | stretch;
+}
+
+footer{
+  background-color: black;
+  font-display: White;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 50px;
+
+  
+}

@@ -1,0 +1,40 @@
+table{
+    color:blue(121, 129, 129);
+    width:0%;
+    text-align: left;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.titulo{
+    height: 60px;
+    background-color: cornflowerblue
+}
+tr{
+
+height:45px;
+background-color:  white;
+border-color:#0000FF
+}
+
+td{
+    height:60px;
+}
+
+.gabi{
+width:25%;
+height:25%;
+}
+p{ text-align: left;
+}
+
+div{
+
+    text-align:left;
+    border:4px solid blue;
+    font-size:50px;
+    font-style: Italic;
+    font-weight:bold;
+    width:50%;
+    }
+    
